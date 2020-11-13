@@ -1,6 +1,6 @@
 ### Hi there, I'm Praise Setiawan - aka [praisedev][website] 👋
 
-## I love to learn Ethical Hacking, Data Structures and Technical Stuff!
+## I love to learn Machine Learning, Data Structures and Website Stuff!
 - 🔭 I’m currently in college pursuing my Bachelor degree
 - 🌱 I’m interested in machine learning and website stuff
 - 🥅 2020 Goals: Contribute more to Open Source projects
