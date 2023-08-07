@@ -29,6 +29,6 @@
 
 <img align="left" alt="praisedev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praisedev&show_icons=true&hide_border=true" />
 
-[website]: https://prais.ga/
+[website]: https://ise.my.id/
 [instagram]: https://www.instagram.com/praise_setiawan/
 [linkedin]: https://www.linkedin.com/in/praise-setiawan
