@@ -1,6 +1,6 @@
 ### Hi there, I'm Praise Setiawan - aka [praisedev][website] 👋
 
-## I love to learn Machine Learning, Data Structures and Website Stuff!
+## Hello and welcome
 - 🔭 I’m currently in college pursuing my Bachelor degree
 - 🌱 I’m interested in machine learning
 
