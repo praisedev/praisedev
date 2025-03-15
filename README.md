@@ -19,15 +19,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Node.Js" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" />
 <img align="left" alt="PHP" width="26px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" />
-<img align="left" alt="SQL Queries" width="26px" src="https://icons-for-free.com/iconfiles/png/512/logo+my+query+server+sql+icon-1320184811372606623.png" />
 <img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-
 <br>
 <br>
-
-
-<img align="left" alt="praisedev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praisedev&show_icons=true&hide_border=true" />
 
 [website]: https://ise.my.id/
 [instagram]: https://www.instagram.com/praise_setiawan/
